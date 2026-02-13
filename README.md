@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi, I’m Mbuso
 
-<!--
-**mbuso-dev/mbuso-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full-Stack Developer building real-world web applications.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript fundamentals
+- React & frontend development
+- Node.js backend basics
+- Git & deployment workflows
+
+## 📌 2026 Goal
+
+Become production-ready and secure a remote junior developer role.
+
+### 🔗 Connect
+
+- LinkedIn: linkedin.com/in/mbuso-dev
+- Email: dev.mbuso@gmail.com
