@@ -9,9 +9,9 @@ Aspiring Full-Stack Developer building real-world web applications.
 - Node.js backend basics
 - Git & deployment workflows
 
-## 📌 2026 Goal
+## 📌 Goal
 
-Become production-ready and secure a remote junior developer role.
+Become production-ready and secure a junior developer role.
 
 ### 🔗 Connect
 
