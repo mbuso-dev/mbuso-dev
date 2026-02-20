@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Mbuso
 
-Aspiring Full-Stack Developer building real-world web applications.
+Aspiring Full-Stack Developer building real world web applications.
 
 ## 🚀 Current Focus
 
@@ -11,7 +11,7 @@ Aspiring Full-Stack Developer building real-world web applications.
 
 ## 📌 Goal
 
-Become production-ready and secure a junior developer role.
+Become production ready and secure a junior developer role.
 
 ### 🔗 Connect
 
